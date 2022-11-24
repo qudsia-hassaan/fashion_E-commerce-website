@@ -578,7 +578,7 @@ footer {
     font-family: "Dancing Script", sans-serif;
 }
 
-@media (max-width:550px) {
+@media (max-width:560px) {
     .icon-mob i {
         /* background-color: red; */
         display: flex;
